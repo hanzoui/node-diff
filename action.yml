@@ -1,5 +1,5 @@
-name: 'ComfyUI Node Validator'
-description: 'Validates ComfyUI custom nodes for breaking changes'
+name: 'Hanzo Studio Node Validator'
+description: 'Validates Hanzo Studio custom nodes for breaking changes'
 branding:
   icon: 'check-circle'
   color: 'green'
